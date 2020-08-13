@@ -1,0 +1,6 @@
+.bg-herp {
+  background-image: url("./hero-image.jpg");
+  height: 30vh;
+  background-size: cover;
+  background-position: center center;
+}
